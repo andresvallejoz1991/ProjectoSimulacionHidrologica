@@ -1,3 +1,3 @@
-Nombre,Estacion ,Latitud ,Longitud 
-Chuquiribamba,ASO01,682174.8522,9559181.233
-Catamayo,ASO02,682174.8522,9559181.233
+fid,Nombre,Estacion ,Latitud ,Longitud 
+1,Chuquiribamba,ASO01,682174.8522,9559181.233
+2,Catamayo,ASO02,682174.8522,9559181.233
